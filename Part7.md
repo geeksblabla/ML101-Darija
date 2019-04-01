@@ -22,7 +22,7 @@ Cost(w1,...wn)=somme(|f(x)-(x)|/N
 يتبع...
 </p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/44703725/55365155-edbd9200-54d2-11e9-941d-43d8f58a46bc.jpg" width="350" >
+<img src="https://user-images.githubusercontent.com/44703725/55365155-edbd9200-54d2-11e9-941d-43d8f58a46bc.jpg" width="700" >
 </p>
 <p dir="rtl" lang="ar">
 Ps: نسيت مانعرف ليكوم دوك القيم b0,b1,b2 ...
