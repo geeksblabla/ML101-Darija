@@ -47,6 +47,9 @@
 <p dir="rtl" lang="ar">
 هنا عرف بلي mountain bike هو object تاع products و النوع تاعو هو bike والموديل ديال هاد البيكالا هوmountain، عرف بلي today راه من نوع datetime، و عرف tune up هي الخدمة اللي خاص يقدم. عاد رد عليه ايمتا غادي يجي عندو للمحل. كيفما شفتو هادي دارتو الآلة و ماشي انسان بشري هاد المثال هو اللي حطيت ف الصورة. أوك خليونا نزيدو نعقدوها شوي.
 </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44703725/55366169-10ea4080-54d7-11e9-87bc-7247ee44d108.jpg" width="700">
+</p>
 <dl dir="rtl" lang="ar">
 <li>الزبون : i bought a mountain bike from your store yesterday, but today i realized that my road bike needs a tune up. Can i make an appointment for tomorrow ؟
 </li>
