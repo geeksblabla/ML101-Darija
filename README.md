@@ -1,4 +1,4 @@
-# AI & ML IN DARIJA
+# AI & ML B DARIJA
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44703725/55365894-d59b4200-54d5-11e9-8750-1e16795d81f2.jpg" width="750">
 </p>
